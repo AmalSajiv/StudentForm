@@ -1,0 +1,35 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "Ram",
+      "class": "5",
+      "email": "ram006@gmail.com",
+      "mobile": "9876554678"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "class": "BBA",
+      "email": "jackd@gmai.com",
+      "mobile": "8796152340"
+    },
+    {
+      "id": 3,
+      "name": "Joe Daniel",
+      "class": "BCA",
+      "email": "joe768@gmail.com",
+      "mobile": "8977554430"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comments",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
